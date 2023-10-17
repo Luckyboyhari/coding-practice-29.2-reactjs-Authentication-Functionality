@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.login-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.head {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 25px;
+  text-align: center;
+}
